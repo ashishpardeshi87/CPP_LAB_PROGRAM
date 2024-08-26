@@ -32,12 +32,12 @@ int main(){
   cars c2;
   
   //Set specification of first car
-  c1.brand="koenigsegg";
-  c1.model="Agera";
+  c1.brand="Toyota";
+  c1.model="Supra";
   c1.type="Sports";
-  c1.topspeed=443;
+  c1.topspeed=277;
   c1.mileage=7;
-  c1.price="4.75 million";
+  c1.price="1.1 million";
   
   //Set specifications of second car
   c2.brand="Mercedes";
