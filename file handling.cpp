@@ -7,7 +7,7 @@ int main() {
     string userInput;
 
     // Asking user for userInput
-    cout << "Enter some text: "; 
+    cout << "Enter some text: "<<endl; 
     getline(cin, userInput);
 
     // Writing userInput to a file 
